@@ -1,0 +1,25 @@
+{
+  "name": "playwright-assignments",
+  "version": "1.0.0",
+  "description": "Playwright with TypeScript – Assignments and Hands-on Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abilash-Chandiran/Playwright-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abilash-Chandiran/Playwright-Assignments/issues"
+  },
+  "homepage": "https://github.com/Abilash-Chandiran/Playwright-Assignments#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "playwright": "^1.65.0",
+    "tsx": "^4.23.15"
+  }
+}
